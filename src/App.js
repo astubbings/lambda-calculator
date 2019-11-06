@@ -23,10 +23,11 @@ function App() {
         {/* STEP 4 - Render your components here and be sure to properly import/export all files */
         }
         <Display />
-        <Operators />
         <div className="numButtonContainer">  
-        <Numbers />
+          <Numbers />
         </div>
+        <Operators />
+        
       </div>
     </div>
   );
