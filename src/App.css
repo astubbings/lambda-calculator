@@ -11,7 +11,6 @@
     margin-top: 25px;
     margin-left: 25px;
 }
-
 .display {
     margin: auto;
     margin-top: 25px;
@@ -33,10 +32,6 @@
     flex-direction: row;
     width: 75%;
     align-content: space-around;
-    
-    
-      
-
   }
   .number_button {
     margin: auto;
@@ -59,9 +54,9 @@
     height: 100px;
     width: 100px;
     border-radius: 50px;
-    border-color: #02497A;
+    border-color: #075E9D;
     color: white;
-    background-color:#02497A;
+    background-color:#075E9D;
     box-shadow: -2px 5px #322c2d;
     font-size: 5.0rem;
   }
@@ -77,4 +72,3 @@
     box-shadow: -2px 5px #322c2d;
     font-size: 5.0rem;
   }
-
