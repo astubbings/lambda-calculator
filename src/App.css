@@ -6,7 +6,13 @@
     border: 2px solid grey;
     padding-bottom: 25px;
 }
+.logo-container{
+    margin: auto;
+    margin-top: 25px;
+    margin-left: 25px;
+}
 .display {
+    margin: auto;
     margin-top: 25px;
     height: 100px;
     width: 450px;
@@ -18,5 +24,51 @@
     justify-content: flex-end;
     align-items: flex-end;
     padding-right: 8%;
+    font-size: 5.0rem;
+  }
+  .numButtonContainer{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    align-content: space-around;
+  }
+  .number_button {
+    margin: auto;
+    margin-top: 25px;
+    margin-right: 25px;
+    height: 100px;
+    width: 100px;
+    
+    border-radius: 50px;
+    border-color: #02497A;
+    color: white;
+    background-color:#02497A;
+    box-shadow: -2px 5px #322c2d;
+    font-size: 5.0rem;
+    
+  }
+  .specials_button {
+    margin: auto;
+    margin-top: 25px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border-color: #075E9D;
+    color: white;
+    background-color:#075E9D;
+    box-shadow: -2px 5px #322c2d;
+    font-size: 5.0rem;
+  }
+  .operators_button {
+    margin: auto;
+    margin-top: 25px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border-color: #007495;
+    color: white;
+    background-color:#007495;
+    box-shadow: -2px 5px #322c2d;
     font-size: 5.0rem;
   }
